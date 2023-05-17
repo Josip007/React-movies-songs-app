@@ -1,4 +1,4 @@
-## App for adding and removing movies and songs using Faker library and Redux.
+# App for adding and removing movies and songs using Faker library and Redux.
 
 
 # Getting Started with Create React App
